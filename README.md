@@ -308,6 +308,6 @@ The architecture is modular, scalable, and suitable for real-world surveillance 
 
 AI & Machine Learning Enthusiast
 
-📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
+📧 Email: *swathiyamani2004@gmail.com*
 
-🔗 LinkedIn: *your-linkedin-profile*
+🔗 LinkedIn: *https://www.linkedin.com/in/swathi-yamani-8a90a8232/*
