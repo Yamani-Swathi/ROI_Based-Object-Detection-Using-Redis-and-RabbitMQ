@@ -1,3 +1,5 @@
+# 🎥 ROI-Based Object Detection Using Redis and RabbitMQ
+
 A real-time intelligent surveillance system that processes multiple video streams using **YOLOv7**, **RabbitMQ**, **Redis**, **OpenCV**, and **Python**. The project performs object detection and person segmentation while validating detections inside predefined Regions of Interest (ROI) to improve monitoring accuracy and reduce unnecessary event storage.
 
 ---
@@ -306,6 +308,6 @@ The architecture is modular, scalable, and suitable for real-world surveillance 
 
 AI & Machine Learning Enthusiast
 
-📧 Email: *swathiyamani2004@gmail.com*
+📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
 
-🔗 LinkedIn: *https://www.linkedin.com/in/swathi-yamani-8a90a8232/*
+🔗 LinkedIn: *your-linkedin-profile*
